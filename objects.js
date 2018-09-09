@@ -6,6 +6,6 @@ function updatePlaylist(playlist,artistName,songTitle){
 }
 
 function removeFromPlaylist(playlist,artistName,songTitle){
-delete playlist.paramore
+delete playlist.Slowdive
  return playlist
 }
